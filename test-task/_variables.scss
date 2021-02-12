@@ -1,0 +1,26 @@
+@font-face{
+    font-family: 'gilroy';
+    src: url(fonts/Gilroy-Regular.ttf);
+}
+@font-face{
+    font-family: 'gilroy-heavy';
+    src: url(fonts/Gilroy-Heavy.ttf);
+}
+@font-face{
+    font-family: 'gilroy-light';
+    src: url(fonts/Gilroy-Light.ttf);
+}
+@font-face{
+    font-family: 'playfair';
+    src: url(fonts/font2/static/PlayfairDisplay-Regular.ttf);
+}
+@font-face{
+    font-family: 'gilroy-bold';
+    src: url(fonts/Gilroy-Bold.ttf);
+}
+@font-face{
+    font-family: 'gilroy-semibold';
+    src: url(fonts/Gilroy-SemiBold.ttf);
+}
+$mainFont: 'gilroy';
+$mainColor: rgba(255, 153, 0, 1)
